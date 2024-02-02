@@ -1,0 +1,46 @@
+servers.dat
+DEFAULT_FOLDER/servers.dat
+DEFAULT_FOLDER/fancymenu_data/epitech.png
+DEFAULT_FOLDER/fancymenu_data/button_background.jpg
+DEFAULT_FOLDER/fancymenu_data/super-mario-bros-pipe.wav
+DEFAULT_FOLDER/fancymenu_data/last_world.fmdata
+DEFAULT_FOLDER/fancymenu_data/epitech_logo_noir.png
+DEFAULT_FOLDER/emotes/Virtual insanity.emotecraft
+DEFAULT_FOLDER/emotes/Ascend.emotecraft
+DEFAULT_FOLDER/emotes/club penguin dance.emotecraft
+DEFAULT_FOLDER/emotes/Arm dance.emotecraft
+DEFAULT_FOLDER/emotes/cool sit.emotecraft
+DEFAULT_FOLDER/emotes/GOAT.emotecraft
+DEFAULT_FOLDER/emotes/naruto run.emotecraft
+DEFAULT_FOLDER/emotes/gangam style.emotecraft
+DEFAULT_FOLDER/emotes/get griddy.emotecraft
+DEFAULT_FOLDER/emotes/Default Dance.emotecraft
+DEFAULT_FOLDER/emotes/Default Dance(loop).emotecraft
+DEFAULT_FOLDER/emotes/Take The L.emotecraft
+DEFAULT_FOLDER/emotes/Po Pi Po.emotecraft
+DEFAULT_FOLDER/emotes/Double Cross Dab.emotecraft
+DEFAULT_FOLDER/emotes/russe.emotecraft
+DEFAULT_FOLDER/emotes/Explosion.emotecraft
+DEFAULT_FOLDER/options.txt
+fancymenu_data/epitech.png
+fancymenu_data/button_background.jpg
+fancymenu_data/super-mario-bros-pipe.wav
+fancymenu_data/last_world.fmdata
+fancymenu_data/epitech_logo_noir.png
+emotes/Virtual insanity.emotecraft
+emotes/Ascend.emotecraft
+emotes/club penguin dance.emotecraft
+emotes/Arm dance.emotecraft
+emotes/cool sit.emotecraft
+emotes/GOAT.emotecraft
+emotes/naruto run.emotecraft
+emotes/gangam style.emotecraft
+emotes/get griddy.emotecraft
+emotes/Default Dance.emotecraft
+emotes/Default Dance(loop).emotecraft
+emotes/Take The L.emotecraft
+emotes/Po Pi Po.emotecraft
+emotes/Double Cross Dab.emotecraft
+emotes/russe.emotecraft
+emotes/Explosion.emotecraft
+options.txt

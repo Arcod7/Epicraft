@@ -1,0 +1,13 @@
+filename = 'UndeadUnleashed-1.1.1-1.19.2.jar'
+name = 'Undead Unleashed'
+side = 'both'
+
+[download]
+hash = '56d767a2df8066d0e8cd1adcaf76c6d0892bd2d72a7ff5eb32a6a21072a9ef094e6d82d18a06a911ebe67bed902662d6da11266712dd260a3b50f86ccbad292a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9kMGkRHe/versions/yy1BDSKr/UndeadUnleashed-1.1.1-1.19.2.jar'
+
+[update.modrinth]
+mod-id = '9kMGkRHe'
+version = 'yy1BDSKr'

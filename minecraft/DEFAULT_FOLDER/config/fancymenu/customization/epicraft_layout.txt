@@ -1,0 +1,256 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  orientation = bottom-right
+  x = -151
+  action = movebutton
+  y = -12
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  width = 150
+  action = resizebutton
+  height = 10
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = setbuttonlabel
+  value = Copyright Arcod
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = top-left
+  x = 8
+  action = movebutton
+  y = 45
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 78
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=376322%
+  orientation = top-right
+  x = -47
+  action = movebutton
+  y = 20
+}
+
+customization {
+  identifier = %id=376322%
+  width = 20
+  action = resizebutton
+  height = 19
+}
+
+customization {
+  identifier = %id=4936%
+  orientation = bottom-centered
+  x = -29
+  action = movebutton
+  y = -47
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = bottom-right
+  x = -263
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=604322%
+  orientation = top-right
+  x = -47
+  action = movebutton
+  y = 43
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = top-left
+  x = 7
+  action = movebutton
+  y = 16
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 78
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604346%
+  orientation = top-right
+  x = -23
+  action = movebutton
+  y = 43
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = top-right
+  x = -23
+  action = movebutton
+  y = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = bottom-centered
+  x = -155
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = top-right
+  x = -72
+  action = movebutton
+  y = 43
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = bottom-centered
+  x = -49
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  path = fancymenu_data/super-mario-bros-pipe.wav
+  action = addhoversound
+}
+
+customization {
+  identifier = %id=376346%
+  orientation = top-right
+  x = -72
+  action = movebutton
+  y = 20
+}
+
+customization {
+  identifier = %id=376346%
+  width = 20
+  action = resizebutton
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 186
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 02f5161a-6300-473a-a628-8f16e47c7f901706833714592
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 143
+  action = deep_customization_element:title_screen_branding
+  actionid = 179c8a73-09e4-45b9-9cc5-43a6effa70a61706833714597
+  y = 338
+  height = 60
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 411
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = e329f0ad-f66f-4d1f-86a4-e1980caea2731706833714598
+  y = 340
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 423
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = d93fe6d9-bc34-4296-a846-cbbf7e4fa0f01706833714598
+  y = 190
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 183
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 98ab226b-b7dc-4994-bb06-8301a6a5cb601706833714598
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = false
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = e7316b4e-4885-4d80-981c-95a3d4a46fe91706833714598
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = joinserver;91.197.6.60:25686%btnaction_splitter_fm%
+  backgroundhovered = fancymenu_data/epitech_logo_noir.png
+  label = 
+  clicksound = fancymenu_data/super-mario-bros-pipe.wav
+  loopbackgroundanimations = true
+  x = 8
+  width = 626
+  action = addbutton
+  actionid = d375c5e7-17dd-4c60-a821-65fa8d3d4fe71706833987829
+  y = 91
+  backgroundnormal = fancymenu_data/epitech.png
+  height = 200
+}
+
