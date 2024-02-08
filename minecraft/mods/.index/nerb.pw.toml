@@ -1,0 +1,13 @@
+filename = 'nerb-1.19.2-0.3-FORGE.jar'
+name = 'Not Enough Recipe Book [NERB]'
+side = 'both'
+
+[download]
+hash = '5bbe41e0232a26205af32ce8096e87e51757514c58f8b2c5b47820c2befc504819f5b2741bfff02ffd8370fcd6e6773e3bc6479a154e2a94f851a0790d3f2408'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bQh7xzFq/versions/ANmCMdMt/nerb-1.19.2-0.3-FORGE.jar'
+
+[update.modrinth]
+mod-id = 'bQh7xzFq'
+version = 'ANmCMdMt'

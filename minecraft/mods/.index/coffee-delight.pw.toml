@@ -1,0 +1,13 @@
+filename = 'CoffeeDelight-Forge-1.19.2-1.4.jar'
+name = 'Coffee Delight'
+side = 'both'
+
+[download]
+hash = '1ed882203a5beb51fd513c4e3d29ac1ee48de22b17254234e16af021e242c5d6cb5ea060e0015c5162eb31e3c498010a9fbba27b25d797947efc95d646f28e5c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jn1HiMrY/versions/YnpoGx6p/CoffeeDelight-Forge-1.19.2-1.4.jar'
+
+[update.modrinth]
+mod-id = 'jn1HiMrY'
+version = 'YnpoGx6p'

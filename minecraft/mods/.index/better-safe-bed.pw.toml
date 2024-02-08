@@ -1,0 +1,13 @@
+filename = 'bettersafebed-forge-1.19-4.jar'
+name = 'Better Safe Bed'
+side = 'server'
+
+[download]
+hash = 'ff33a6fcda22d4fce81711a3de7b9c9cf8c02d8fe8f25d7d03f4671a9da2d25b403a8a4b0ca8c53492c025e060f9220427a73ccc8353b77c534f9e1b9e162ad2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aUp4r9hY/versions/bettersafebed-forge-1.19-4/bettersafebed-forge-1.19-4.jar'
+
+[update.modrinth]
+mod-id = 'aUp4r9hY'
+version = 'tzt6Flqr'

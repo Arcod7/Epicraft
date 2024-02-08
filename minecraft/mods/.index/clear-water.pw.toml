@@ -1,0 +1,13 @@
+filename = 'Clear-Water-2.0.jar'
+name = 'Clear Water'
+side = 'client'
+
+[download]
+hash = 'f04b98a7bc8784724a9a4fb0711fdfeeb88e3ff91e7e633e2e83674ec87999b1bbc926bbf5c8755e0c91ed4e1a69cec800b03c6f34a7cc6178ec0cdfe0c398ec'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/485Cv9lY/versions/pOdDg7Jy/Clear-Water-2.0.jar'
+
+[update.modrinth]
+mod-id = '485Cv9lY'
+version = 'pOdDg7Jy'

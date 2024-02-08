@@ -46,11 +46,10 @@
   "jade:distance": null,
   "jade:block_face": null,
   "gravestone:grave": null,
-  "cookingforblockheads:milk_jar": null,
-  "cookingforblockheads:toaster": null,
-  "cookingforblockheads:oven": null,
-  "cookingforblockheads:fridge": null,
-  "cookingforblockheads:sink": null,
+  "apotheosis:spawner": null,
+  "apotheosis:ench": null,
+  "apotheosis:adventure": null,
+  "gravestone:grave": null,
   "camera:image_frame": null,
   "waystones:waystone": null,
   "minecraft:brewing_stand": null,
@@ -91,6 +90,5 @@
   "jade:registry_name": null,
   "jade:mod_name": null,
   "jade:distance": null,
-  "jade:block_face": null,
-  "gravestone:grave": null
+  "jade:block_face": null
 }

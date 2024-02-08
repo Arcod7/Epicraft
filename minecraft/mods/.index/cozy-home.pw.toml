@@ -1,0 +1,13 @@
+filename = 'CozyHome-2.2.8-1.19.2.jar'
+name = "Lucky's Cozy Home"
+side = 'both'
+
+[download]
+hash = '65b0fabea7d8efb7fd0e286d4ef49167baf00b15'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4885262
+project-id = 825733

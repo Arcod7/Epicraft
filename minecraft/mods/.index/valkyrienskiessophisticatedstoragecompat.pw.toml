@@ -1,0 +1,13 @@
+filename = 'valkyrienskies_sophisticatedstorage_compat-1.19.2-1.0.2-SS0.8.jar'
+name = 'Valkyrien Storage - Sophisticated Compatibility'
+side = 'both'
+
+[download]
+hash = 'eafa202146eae78641d8ec1be0572938cff6ee0c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5073500
+project-id = 963106
