@@ -1,0 +1,13 @@
+filename = 'createtipsy-0.1.a+mc1.19.2.jar'
+name = "Create: Tipsy n' Dizzy"
+side = 'both'
+
+[download]
+hash = 'a8e9466b5fddb9378f57fdae103e57f8dd9b40a2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4994292
+project-id = 952062

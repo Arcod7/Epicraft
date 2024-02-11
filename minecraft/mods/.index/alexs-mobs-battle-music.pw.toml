@@ -1,0 +1,13 @@
+filename = "Alex's Mobs Music Mod.jar"
+name = "♪ Alex's Mobs EXTRA Music ♪"
+side = 'both'
+
+[download]
+hash = '86da075d80ada9abcd3630da38c09fc406e9b874'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3968073
+project-id = 500532

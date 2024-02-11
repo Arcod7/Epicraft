@@ -1,0 +1,13 @@
+filename = 'ItalianDelight-1.19.2 1.5-MAR_FIX.jar'
+name = "Italian Delight (A Farmer's Delight Add-on)"
+side = 'both'
+
+[download]
+hash = '83597dc5f27d0d5591e277b8623abb62d194c567dbe88516bd61dffb034c837cc070b697c1535a8501714e7c3e301abdcb8d48cfb2b5004a735a2c23139732bb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CT0O8jbT/versions/T1zI8ke3/ItalianDelight-1.19.2 1.5-MAR_FIX.jar'
+
+[update.modrinth]
+mod-id = 'CT0O8jbT'
+version = 'T1zI8ke3'

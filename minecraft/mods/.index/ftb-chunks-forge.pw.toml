@@ -1,0 +1,13 @@
+filename = 'ftb-chunks-forge-1902.4.4-build.326.jar'
+name = 'FTB Chunks (Forge)'
+side = 'both'
+
+[download]
+hash = '4bfea837262e8862526896c86c4fac779c7d1d80'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5001266
+project-id = 314906

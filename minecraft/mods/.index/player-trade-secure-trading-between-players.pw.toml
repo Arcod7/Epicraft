@@ -1,0 +1,13 @@
+filename = 'PlayerTrade-1.19.2-1.1.jar'
+name = 'Player Trade - Secure Trading Between Players'
+side = 'both'
+
+[download]
+hash = 'cfdd7cc2c1b812303d8058307904ca8fc4e6e4d9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4285455
+project-id = 499619

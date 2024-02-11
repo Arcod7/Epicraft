@@ -25,9 +25,9 @@
 	#Enables modifications of fog under water
 	enableWater = true
 	#Value for where fog starts. Vanilla is -8.0
-	fogNearPlaneWater = -8.0
+	fogNearPlaneWater = -100.0
 	#Value for where fog ends. Vanilla is 96.0
-	fogFarPlaneWater = 250.0
+	fogFarPlaneWater = 2000.0
 	#When enabled, makes vision fade in like vanilla behavior
 	fadeInWater = true
 	#The shape of the fog around the player

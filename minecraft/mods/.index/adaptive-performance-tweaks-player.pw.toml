@@ -1,0 +1,13 @@
+filename = 'adaptive_performance_tweaks_player_1.19.2-11.0.0.jar'
+name = 'APTweaks: Player'
+side = 'both'
+
+[download]
+hash = 'd14edcd37ad7330a94d927de192b2a8bb058b029'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4961619
+project-id = 563963

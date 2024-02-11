@@ -1,13 +1,13 @@
 filename = 'Clear-Water-2.0.jar'
 name = 'Clear Water'
-side = 'client'
+side = 'both'
 
 [download]
-hash = 'f04b98a7bc8784724a9a4fb0711fdfeeb88e3ff91e7e633e2e83674ec87999b1bbc926bbf5c8755e0c91ed4e1a69cec800b03c6f34a7cc6178ec0cdfe0c398ec'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/485Cv9lY/versions/pOdDg7Jy/Clear-Water-2.0.jar'
+hash = '4abd85e3263b7390685dac89804664740e5427c8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = '485Cv9lY'
-version = 'pOdDg7Jy'
+[update.curseforge]
+file-id = 4415155
+project-id = 286098

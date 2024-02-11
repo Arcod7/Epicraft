@@ -1,0 +1,13 @@
+filename = 'create_interim.jar'
+name = 'Interim final (Outdated No longer Needed)'
+side = 'both'
+
+[download]
+hash = 'ae469b2c6cc3da222dcde5ff1c6925ffe8f26624'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5053514
+project-id = 965690

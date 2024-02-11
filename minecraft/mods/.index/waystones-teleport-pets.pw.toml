@@ -1,0 +1,13 @@
+filename = 'WaystonesTeleportPets-1.19.2-1.19.4--1.2.jar'
+name = 'Waystones Teleport Pets'
+side = 'both'
+
+[download]
+hash = 'e2d2b016a271ac7933294fcad8dc89efb83667ef'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4956996
+project-id = 908310

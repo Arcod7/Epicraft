@@ -3,11 +3,11 @@ name = 'Packet Fixer'
 side = 'both'
 
 [download]
-hash = '1a78eb98003f65cd53f1bc0bf04613273779047b910e1995b9981d9369bf7d0ce06e1958354964599017fac6c1c40b769412012672fd11b98d9058c3d6060322'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/c7m1mi73/versions/eLvhoAZV/PacketFixer-forge-1.2.0-1.19.2.jar'
+hash = '94cf6d04f34b6206b2bb1b6110c3698aa1058e9f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'c7m1mi73'
-version = 'eLvhoAZV'
+[update.curseforge]
+file-id = 4846242
+project-id = 689467

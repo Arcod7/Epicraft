@@ -1,0 +1,13 @@
+filename = 'waterframes-1.19.2-2.0.0-beta5.jar'
+name = 'WATERFrAMES: Online Picture and Video Frame'
+side = 'both'
+
+[download]
+hash = '966f5dbec8d1db14d49bc30a637fe3021270dd17'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4904487
+project-id = 834607

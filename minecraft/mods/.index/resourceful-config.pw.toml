@@ -3,11 +3,11 @@ name = 'Resourceful Config'
 side = 'both'
 
 [download]
-hash = '6ca5a13334635e3b7b44f334bcc64cdf2a9f59f748ab6dd787dc7204330c3ce7bbdf56e00791ea7bc1ec1109ee55cfecd6d1bd40dbf606ef066de172690247eb'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/M1953qlQ/versions/6k0hdREk/resourcefulconfig-forge-1.19.2-1.0.20.jar'
+hash = 'cf00a655e73e9a7aeb8e3cc3d305c62d04cd8d0b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'M1953qlQ'
-version = '6k0hdREk'
+[update.curseforge]
+file-id = 4444198
+project-id = 714059

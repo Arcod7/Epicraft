@@ -1,13 +1,13 @@
 filename = 'clear-skies-forge-mc119-2.0.95.jar'
 name = 'Clear Skies'
-side = 'client'
+side = 'both'
 
 [download]
-hash = '6ce6c97efde466301db8a0d40df6273ff5e89300b8afabbcd9d8e502e62650e4080eae457053c94a73649c5872bbe705fb1304fe9e68faea6bc48c2b3c0d8cb5'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/xNK6XfRv/versions/u71pdORg/clear-skies-forge-mc119-2.0.95.jar'
+hash = '6864687a05e9ba7dbbb72ee4ac56b047e933b771'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'xNK6XfRv'
-version = 'u71pdORg'
+[update.curseforge]
+file-id = 3996548
+project-id = 332523

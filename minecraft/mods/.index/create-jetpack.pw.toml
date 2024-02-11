@@ -3,11 +3,11 @@ name = 'Create Jetpack'
 side = 'both'
 
 [download]
-hash = 'ef361a506d1a90b665c2fe4fe5450d7b8adae3fa93a02d57e5eb6b397902aabe479cacbe10678af197e6815490715aebcad8b407cd142cb68ab321260438ee0d'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/UbFnAd4l/versions/TftC8J1l/create_jetpack-forge-3.3.0.jar'
+hash = 'bc32d6aeda41dd027c9c1974f942ebf6d75aa90c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'UbFnAd4l'
-version = 'TftC8J1l'
+[update.curseforge]
+file-id = 4957747
+project-id = 655608

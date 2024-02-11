@@ -3,11 +3,11 @@ name = 'Create: Crystal Clear'
 side = 'both'
 
 [download]
-hash = '41d008cbda817b96cc14a84bf3d689eb1a14bdd997d7180841cf08507ea22b5312560be9c619960213b9d4cb8e808e3257f43d7ed9f9cdeea373e6f6177cce06'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/h7QgiH72/versions/YEuo20pc/create_crystal_clear-0.2.1-1.19.2.jar'
+hash = '4dbc46ae21c6e34a47330eace1ffc2c2a241e078'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'h7QgiH72'
-version = 'YEuo20pc'
+[update.curseforge]
+file-id = 4554249
+project-id = 669724
